@@ -1,0 +1,18 @@
+.maindiv{
+    width: 500px;
+    height: 300px;
+    background-color: rgba(229, 255, 0, 0.719);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+#btn{
+    width: 125px;
+    height: 75px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+    font-size: large;
+}
